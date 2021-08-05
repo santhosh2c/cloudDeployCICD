@@ -12,6 +12,7 @@
                     <Text text="integration"/>
                     <Text text="integration and deploy"/>
                     <Text text="new build"/>
+                    <Text text="new build to qa"/>
                     </content>
 				</Page>
 			</pages>
