@@ -13,6 +13,7 @@
                     <Text text="integration and deploy"/>
                     <Text text="new build"/>
                     <Text text="new build to qa"/>
+                    <Input value="Hi"></Input>
                     </content>
 				</Page>
 			</pages>
